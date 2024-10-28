@@ -2,7 +2,7 @@
 
 Projeto de um simulador de Máquina de Turing na linguagem Python.
 
-## Funcionalidades
+## Funcionalidades 
 
 - Leitura de máquinas de Turing a partir de arquivos JSON.
 - Leitura de fitas de entrada a partir de arquivos de texto.
